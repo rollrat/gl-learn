@@ -123,7 +123,10 @@
   <ItemGroup>
     <ClCompile Include="anti.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="spin.cpp" />
     <ClCompile Include="소스.cpp" />
+    <ClCompile Include="소스1.cpp" />
+    <ClCompile Include="소스2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="gl\glWindow.h" />

@@ -24,6 +24,15 @@
     <ClCompile Include="anti.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="spin.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="gl\glWindow.h">
