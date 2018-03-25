@@ -128,9 +128,6 @@
     <ClCompile Include="소스1.cpp" />
     <ClCompile Include="소스2.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="gl\glWindow.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
